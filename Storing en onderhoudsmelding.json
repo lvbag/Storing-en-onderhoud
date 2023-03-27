@@ -1,9 +1,9 @@
 [
   {
     "type": "storing",
-    "startDate": "2023-03-28 17:00:00",
-    "endDate": "2023-03-28 20:00:00",
-    "message": "Let op!\n\nVanwege onderhoudswerkzaamheden is het op 28 maart van 18.00 uur tot 20.00 uur niet mogelijk om terugmeldingen via de BAG Viewer te bekijken en/of in te dienen.\nOnze excuses voor het ongemak."
+    "startDate": "2023-03-27 11:00:00",
+    "endDate": "2023-03-27 20:00:00",
+    "message": "Let op!\n\n Door een storing krijgt u soms een foutmelding bij het zoeken van een object. Wij adviseren u om het op een later moment nogmaals te proberen.\nOnze excuses voor het ongemak."
   },
   {
     "type": "melding",
