@@ -1,9 +1,9 @@
 [
   {
     "type": "storing",
-    "startDate": "2026-02-05 14:24:00",
-    "endDate": "2026-02-05 18:00:00",
-    "message": "Vanwege een storing is de BAG niet bereikbaar. Hierdoor is ook de zoekfunctie in de BAG Viewer niet te gebruiken. We werken aan een oplossing en onze excuses voor het ongemak."
+    "startDate": "2026-05-04 10:00:00",
+    "endDate": "2026-05-05 10:00:00",
+    "message": "De zoekfunctie in de BAG Viewer is niet bijgewerkt. Wijzigingen in de LV BAG zijn wel te vinden via zoekoptie Uitgebreid zoeken. We werken aan een oplossing, onze excuses voor het ongemak"
   },
   {
     "type": "melding",
